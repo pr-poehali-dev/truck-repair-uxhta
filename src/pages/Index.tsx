@@ -96,7 +96,7 @@ export default function Index() {
           <div className="flex items-center gap-2">
             <Icon name="Truck" size={32} className="text-secondary" />
             <div>
-              <h1 className="text-xl font-bold text-primary-foreground">Грузовое СТО</h1>
+              <h1 className="text-xl font-bold text-primary-foreground">Вин Дизель</h1>
               <p className="text-xs text-primary-foreground/80">Ухта</p>
             </div>
           </div>
@@ -377,7 +377,7 @@ export default function Index() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2">
               <Icon name="Truck" size={24} className="text-secondary" />
-              <span className="font-bold">Грузовое СТО Ухта</span>
+              <span className="font-bold">Вин Дизель Ухта</span>
             </div>
             <div className="text-sm text-primary-foreground/80">
               © 2024 Все права защищены
