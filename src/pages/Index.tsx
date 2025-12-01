@@ -107,9 +107,9 @@ export default function Index() {
             <a href="#faq" className="text-primary-foreground hover:text-secondary transition-colors">FAQ</a>
             <a href="#contacts" className="text-primary-foreground hover:text-secondary transition-colors">Контакты</a>
           </nav>
-          <a href="tel:+78216123456" className="hidden md:flex items-center gap-2 text-primary-foreground font-semibold">
+          <a href="tel:+79086984885" className="hidden md:flex items-center gap-2 text-primary-foreground font-semibold">
             <Icon name="Phone" size={20} />
-            +7 (8216) 12-34-56
+            +7 (908) 698-48-85
           </a>
         </div>
       </header>
@@ -301,8 +301,8 @@ export default function Index() {
                   <Icon name="Phone" className="text-secondary mt-1" size={20} />
                   <div>
                     <div className="font-semibold">Телефон</div>
-                    <a href="tel:+78216123456" className="text-muted-foreground hover:text-secondary transition-colors">
-                      +7 (8216) 12-34-56
+                    <a href="tel:+79086984885" className="text-muted-foreground hover:text-secondary transition-colors">
+                      +7 (908) 698-48-85
                     </a>
                   </div>
                 </div>
